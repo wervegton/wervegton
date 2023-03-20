@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @wervegton
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wervegton/wervegton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+/wKx6TCQ0ict9OyvkRQoNFsdguzk
+t329iV522FaSzNurryKM2leBji2oBI1
+2PMJi+4fefop6neQY1XOOrRQ7DyIMlkBxey
+hXtB536Fdp6aPgOkDM7EP96No6+1DpM
+K49gK4bvx4r2VQgv806Q2cytrJ0hua
+BMKXsj0L/VQ5NnTg
